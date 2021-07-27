@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatShot
 - 👀 I’m interested in ... Python, Artificial Intelligence, Physics, and Mathematics
 - 🌱 I’m currently learning ... C++, Javascript, and other stuff in Python! Always looking to explore a broader horizon!
-- 💞️ I’m looking to collaborate on ... Machine Learning projecs
+- 💞️ I’m looking to collaborate on ... Machine Learning projects
 - 📫 How to reach me ... pathikritghosh93@gmail.com
 
 <!---
